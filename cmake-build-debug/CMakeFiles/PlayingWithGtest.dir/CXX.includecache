@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/iristich/CLionProjects/PlayingWithGtest/main.cpp
+whattotest.cpp
+/home/iristich/CLionProjects/PlayingWithGtest/whattotest.cpp
+gtest/gtest.h
+-
+
+/home/iristich/CLionProjects/PlayingWithGtest/whattotest.cpp
+vector
+-
+
